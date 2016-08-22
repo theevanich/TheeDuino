@@ -1,4 +1,4 @@
-update=7/22/2016 5:09:54 PM
+update=22/08/2016 11:46:23
 version=1
 last_client=kicad
 [pcbnew]
@@ -25,9 +25,19 @@ version=1
 NetIExt=net
 [general]
 version=1
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
 [eeschema]
 version=1
-LibDir=
+LibDir=.pretty
 [eeschema/libraries]
 LibName1=atmega328p-rescue
 LibName2=power
@@ -62,13 +72,3 @@ LibName30=valves
 LibName31=ds1307
 LibName32=ds3231M
 LibName33=mylib
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=60
