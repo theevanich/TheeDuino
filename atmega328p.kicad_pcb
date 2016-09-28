@@ -1,9 +1,9 @@
-(kicad_pcb (version 4) (host pcbnew 4.0.2-stable)
+(kicad_pcb (version 4) (host pcbnew 4.0.3-stable)
 
   (general
     (links 100)
     (no_connects 6)
-    (area 110.922999 72.949999 179.653001 126.440001)
+    (area 104.176999 71.106 180.166572 127.694)
     (thickness 1.6)
     (drawings 14)
     (tracks 484)
@@ -92,7 +92,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory drillHPGL/))
+      (outputdirectory drillGerber/))
   )
 
   (net 0 "")
